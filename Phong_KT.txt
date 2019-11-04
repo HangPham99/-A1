@@ -1,0 +1,13 @@
+009 Nguyễn Hoàng    Hạnh    1 PP   1750000  KT
+010 Lê Thị          Hồng    1 NV   1500000  KT
+011 Lâm Quốc        Khánh   0 NV   1250000  KT
+028 Trương Lê       Xuân    1 NV   1750000  KT
+046 Hoàng Thanh     Trang   1 NV   500000   KT
+050 Nguyễn Thi      Nam     1 NV   1500000  KT
+053 Lương Anh       Tuyền   1 NV   500000   KT
+060 Nguyeãn Thanh   Sơn     0 TP   1750000  KT
+-------------------------------------------------
+Số nam: 6
+Số nữ: 2
+Tổng nhân viên: 8
+Số lương: 10500000

@@ -1,0 +1,6 @@
+TenPB                     SoNam   SoNu  TongSo
+Phòng Kinh Tế Kế Hoạch      3      6      9   
+Phòng Kế Toán Tài Chính     6      2      8   
+Phòng Tổ Chức Nhân Sự       4      6      10  
+Phòng Kỹ Thuật Thiết Kế     7      15     22  
+Văn Phòng Xí Nghiệp         4      7      11  

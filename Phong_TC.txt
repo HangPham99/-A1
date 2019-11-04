@@ -1,0 +1,15 @@
+018 Ninh Thị        Tâm     1 NV   750000   TC
+019 Nguyễn Kim      Toàn    1 PGD  1750000  TC
+020 Nguyễn Bích     Liên    1 TK   1000000  TC
+024 Bùi Sơn         Hải     0 NV   1000000  TC
+026 Nguyễn Kim      Chi     0 TL   1000000  TC
+029 Nguyễn Văn      Thanh   0 NV   750000   TC
+035 Đỗ Đình         Việt    0 PP   1500000  TC
+039 Mai Văn         Nương   0 NV   1000000  TC
+040 Trịng Xuân      Hoàng   0 TP   1750000  TC
+051 Tôn Thị Thanh   Nhàn    1 NV   1000000  TC
+-------------------------------------------------
+Số nam: 4
+Số nữ: 6
+Tổng nhân viên: 10
+Số lương: 11500000

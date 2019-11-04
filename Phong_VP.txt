@@ -1,0 +1,16 @@
+001 Lại Văn         Sâm     0 NV   1000000  VP
+002 Trần Văn        Minh    0 NV   1250000  VP
+013 Nguyễn Minh     Quang   0 NV   1750000  VP
+014 Trang Phi       Hương   0 TX   1000000  VP
+015 Trần Nguyệt     Minh    1 TK   1000000  VP
+016 Nguyễn Ngọc     Hiền    1 NV   1250000  VP
+017 Nguyễn Anh      Hoàng   0 PP   2000000  VP
+033 Hoàng Ngọc      Thanh   0 TP   1750000  VP
+043 Phạm Hoài       Nam     1 TK   1000000  VP
+049 Mai Thị Hoàng   Xuân    1 NV   750000   VP
+054 Mã Văn          Thanh   0 NV   1000000  VP
+-------------------------------------------------
+Số nam: 4
+Số nữ: 7
+Tổng nhân viên: 11
+Số lương: 13750000

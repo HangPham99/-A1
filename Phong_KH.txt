@@ -1,0 +1,14 @@
+007 Vũ Hoài         Anh     0 PP   1250000  KH
+008 Trần  Thanh     Khanh   0 PGD  1750000  KH
+021 Huỳnh Bạch      Tuyết   1 TL   1250000  KH
+022 Lê Phong        Thanh   1 TP   1750000  KH
+023 Tạ Thế          Khanh   0 NV   1000000  KH
+031 Nguyễn Văn      Ninh    0 NV   1000000  KH
+037 Trần Thế        Duyệt   0 NV   750000   KH
+038 Lê Bích         Phương  1 TK   1000000  KH
+056 Trương Trọng    Nhất    0 NV   1000000  KH
+-------------------------------------------------
+Số nam: 3
+Số nữ: 6
+Tổng nhân viên: 9
+Số lương: 10750000

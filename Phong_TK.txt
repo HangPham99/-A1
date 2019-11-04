@@ -1,0 +1,27 @@
+003 Tôn Cảnh        Sơn     0 NV   750000   TK
+004 Ngô Việt        Hùng    0 NV   500000   TK
+005 Mai Thị         Loan    1 NV   1500000  TK
+006 Mai Xuân        Tiên    0 TL   1500000  TK
+012 Nguyễn Hoàng    Vân     1 NV   1000000  TK
+025 Lưu Võ          Cẩm     0 NV   750000   TK
+027 Trần Quang      Thông   0 TX   1250000  TK
+030 Nguyễn Văn      Thủy    0 NV   750000   TK
+032 Lâm Văn         Tuấn    0 PP   1500000  TK
+034 Nguyễn Văn      Nuôi    0 NV   1250000  TK
+036 Lê Trung        Bình    0 TK   1000000  TK
+041 Huỳnh Ngọc      Quân    0 PGD  2000000  TK
+042 Nguyễn Thanh    Hoàng   1 NV   1250000  TK
+044 Lê Thị Mỹ       Linh    1 NV   1000000  TK
+045 Phạm Thế        Dung    0 NV   750000   TK
+047 Nguyễn Văn      Hiền    0 TP   2000000  TK
+048 Trần Nguyệt     Nga     1 NV   1250000  TK
+052 Nguyễn Tố       Uyên    1 PP   1750000  TK
+055 Lương Văn       Chính   0 NV   750000   TK
+057 Nguyễn Xuân     Phương  0 GD   2250000  TK
+058 Võ Ngọc         Quang   0 NV   1000000  TK
+059 Nguyeãn Thanh   Thi     1 NV   750000   TK
+-------------------------------------------------
+Số nam: 7
+Số nữ: 15
+Tổng nhân viên: 22
+Số lương: 26500000

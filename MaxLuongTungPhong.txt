@@ -1,0 +1,9 @@
+008 Trần  Thanh     Khanh   0 PGD  1750000  KH
+022 Lê Phong        Thanh   1 TP   1750000  KH
+009 Nguyễn Hoàng    Hạnh    1 PP   1750000  KT
+028 Trương Lê       Xuân    1 NV   1750000  KT
+060 Nguyeãn Thanh   Sơn     0 TP   1750000  KT
+019 Nguyễn Kim      Toàn    1 PGD  1750000  TC
+040 Trịng Xuân      Hoàng   0 TP   1750000  TC
+057 Nguyễn Xuân     Phương  0 GD   2250000  TK
+017 Nguyễn Anh      Hoàng   0 PP   2000000  VP

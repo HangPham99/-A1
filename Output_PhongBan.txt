@@ -1,0 +1,5 @@
+KH Phòng Kinh Tế Kế Hoạch    
+KT Phòng Kế Toán Tài Chính  
+TC Phòng Tổ Chức Nhân Sự    
+TK Phòng Kỹ Thuật Thiết Kế   
+VP Văn Phòng Xí Nghiệp        
